@@ -8,7 +8,7 @@ I’m a 50-something woman who loves technology. There are more people like me t
 
 So far I feel more drawn to data analysis than to front end work, but I’m trying to study widely and understand where my strengths are. I’m also building up my projects as I think that’s where I’ll really find – and be able to show – what I’m good at. 
 
-Courses completed to date:
+**Courses completed to date:**
 
 Python for Everybody - https://www.py4e.com
 
@@ -19,7 +19,7 @@ Coursera Data science Math Skills - https://www.coursera.org/learn/datasciencema
 Coursera Cloud Computing Basics - https://www.coursera.org/learn/cloud-computing-basics/home/welcome
 
 
-I’m currently studying:
+**I’m currently studying:**
 
 Udemy Python for Data Science and Machine Learning Bootcamp - https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/learn/lecture/5733472?start=0#notes
 
@@ -28,12 +28,15 @@ Udemy HTML and CSS Masterclass - https://www.udemy.com/course/html-and-css-maste
 Udemy Git and Github Masterclass - https://www.udemy.com/course/git-and-github-masterclass/learn/lecture/14479084?start=15#overview
 
 
-Lined up for future study:
+**Lined up for future study:**
 
 
 The Complete Regular Expressions (Regex) Course for beginners - https://www.udemy.com/course/regular-expressions-mastery/learn/lecture/15109624?start=0#overview
 
 The Complete SQL Bootcamp 2021 - https://www.udemy.com/course/the-complete-sql-bootcamp/learn/lecture/19242668?start=0#overview
+
+
+**Advice**?
 
 If you have any advice on what else I should be looking at, or where to start looking for work, I would be really grateful. At the moment I plan to start seriously looking later this year, once I have some good projects here in github. 
 
