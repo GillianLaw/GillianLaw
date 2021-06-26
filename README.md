@@ -8,7 +8,7 @@ I’m a 50-something woman who loves technology. There are more people like me t
 
 So far I feel more drawn to data analysis than to front end work, but I’m trying to study widely and understand where my strengths are. I’m also building up my projects as I think that’s where I’ll really find – and be able to show – what I’m good at. 
 
-I'm always, always keen to learn new things so I'm happy to move into other languages and areas. In the past ten years I've studied Chinese, taken up painting and begun (re)learning maths, so I'm not afraid to try new things. 
+I'm always, always keen to learn new things so I'm happy to move into other coding languages and keep up to date with platforms. In the past ten years I've learned to speak Chinese, taken up painting, and begun (re)learning maths - so I'm up for anything...
 
 
 **Courses completed to date:**
