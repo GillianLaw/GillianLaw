@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @GillianLaw
-- 
+Hi, I’m @GillianLaw
+
 I’m learning to code after a career as a technology journalist, and I’ve discovered I love it – so much so that I’m now looking to move into a coding job. 
 
 I can bring a lot to the programming world: I’m a great listener and communicator, I can really get to understand what works for people and how to help them. I also love taking complex things and making them easy to understand, and that’s a real strength of coding, I feel. 
