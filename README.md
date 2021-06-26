@@ -8,6 +8,9 @@ I’m a 50-something woman who loves technology. There are more people like me t
 
 So far I feel more drawn to data analysis than to front end work, but I’m trying to study widely and understand where my strengths are. I’m also building up my projects as I think that’s where I’ll really find – and be able to show – what I’m good at. 
 
+I'm always, always keen to learn new things so I'm happy to move into other languages and areas. In the past ten years I've studied Chinese, taken up painting and begun (re)learning maths, so I'm not afraid to try new things. 
+
+
 **Courses completed to date:**
 
 Python for Everybody - https://www.py4e.com
@@ -34,6 +37,11 @@ Udemy Git and Github Masterclass - https://www.udemy.com/course/git-and-github-m
 The Complete Regular Expressions (Regex) Course for beginners - https://www.udemy.com/course/regular-expressions-mastery/learn/lecture/15109624?start=0#overview
 
 The Complete SQL Bootcamp 2021 - https://www.udemy.com/course/the-complete-sql-bootcamp/learn/lecture/19242668?start=0#overview
+
+
+**Code editors**
+
+To date I've worked using Atom, IntelliJ and Jupyter Notebooks. I mostly like Atom, for the simplicity, but I can see the benefits of all three. 
 
 
 **Advice**?
