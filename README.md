@@ -33,6 +33,7 @@ Udemy Git and Github Masterclass - https://www.udemy.com/course/git-and-github-m
 
 **Lined up for future study:**
 
+Django for Everybody - https://www.dj4e.com
 
 The Complete Regular Expressions (Regex) Course for beginners - https://www.udemy.com/course/regular-expressions-mastery/learn/lecture/15109624?start=0#overview
 
