@@ -1,4 +1,4 @@
-Hi, I’m @GillianLaw / Bonjour, je suis @GillianLaw (Veuillez voir ci-dessous pour une version française de mon profil)
+Hi, I’m @GillianLaw 
 
 I’m learning to code after a career as a technology journalist, and I’ve discovered I love it – so much so that I’m now looking to move into a coding job. 
 
@@ -9,6 +9,8 @@ I’m a 50-something woman who loves technology. There are more people like me t
 So far I feel more drawn to data analysis than to front end work, but I’m trying to study widely and understand where my strengths are. I’m also building up my projects as I think that’s where I’ll really find – and be able to show – what I’m good at. 
 
 I'm always, always keen to learn new things so I'm happy to move into other coding languages and keep up to date with platforms. In the past ten years I've learned to speak Chinese, taken up painting, and begun (re)learning maths - so I'm up for anything...
+
+I'm Scottish, but I live in Marseille (and speak fluent French). I'm therefore looking for work based here in Marseille, or remotely. 
 
 
 **Courses completed to date:**
@@ -50,7 +52,7 @@ To date I've worked using Atom, IntelliJ and Jupyter Notebooks. I mostly like At
 If you have any advice on what else I should be looking at, or where to start looking for work, I would be really grateful. At the moment I plan to start seriously looking later this year, once I have some good projects here in github. 
 
 
-Francais:
+**FRANCAIS**
 
 Bonjour, je suis @GillianLaw
 
@@ -92,6 +94,13 @@ The Complete Regular Expressions (Regex) Course for beginners - https://www.udem
 
 The Complete SQL Bootcamp 2021 - https://www.udemy.com/course/the-complete-sql-bootcamp/learn/lecture/19242668?start=0#overview
 
+**Éditeurs de code**
+
+Jusqu'à présent, j'ai travaillé avec Atom, IntelliJ et Jupyter Notebooks. J'aime surtout Atom, pour sa simplicité, mais je vois les avantages des trois. 
+
+**Conseils** ?
+
+Si vous avez des conseils sur ce que je devrais faire, ou sur l'endroit où commencer à chercher du travail, je vous en serais vraiment reconnaissant. Pour l'instant, je prévois de commencer à chercher sérieusement plus tard cette année, une fois que j'aurai quelques bons projets ici dans github. 
 
 
 - 📫 www.gillianlaw.co.uk
