@@ -52,6 +52,8 @@ To date I've worked using Atom, IntelliJ and Jupyter Notebooks. I mostly like At
 If you have any advice on what else I should be looking at, or where to start looking for work, I would be really grateful. At the moment I plan to start seriously looking later this year, once I have some good projects here in github. 
 
 
+
+
 **FRANCAIS**
 
 Bonjour, je suis @GillianLaw
