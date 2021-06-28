@@ -1,4 +1,4 @@
-Hi, I’m @GillianLaw
+Hi, I’m @GillianLaw / Bonjour, je suis @GillianLaw (Veuillez voir ci-dessous pour une version française de mon profil)
 
 I’m learning to code after a career as a technology journalist, and I’ve discovered I love it – so much so that I’m now looking to move into a coding job. 
 
@@ -48,6 +48,51 @@ To date I've worked using Atom, IntelliJ and Jupyter Notebooks. I mostly like At
 **Advice**?
 
 If you have any advice on what else I should be looking at, or where to start looking for work, I would be really grateful. At the moment I plan to start seriously looking later this year, once I have some good projects here in github. 
+
+
+Francais:
+
+Bonjour, je suis @GillianLaw
+
+J'apprends à coder après une carrière de journaliste spécialisée dans les technologies, et j'ai découvert que j'adore ça - à tel point que je cherche maintenant à occuper un poste de codeuse.
+
+Je peux apporter beaucoup au monde de la programmation : J'ai une grande capacité d'écoute et de communication, je peux vraiment comprendre comment aider les gens et leur fournir ce dont ils ont besoin. J'aime aussi prendre des choses complexes et les rendre faciles à comprendre.
+
+Je suis une femme d'une cinquantaine d'années qui aime la technologie. Il y a plus de gens comme moi qu'on ne le pense, et je suis convaincue que je peux apporter un regard neuf sur le monde de la technologie. 
+
+Jusqu'à présent, je me sens plus attirée par l'analyse de données que par le travail frontal, mais j'essaie de faire des études approfondies et de comprendre où sont mes points forts. Je développe également mes projets, car je pense que c'est là que je trouverai vraiment - et que je pourrai montrer - ce que je sais faire. 
+
+J'ai toujours, toujours envie d'apprendre de nouvelles choses et je suis donc heureuse de passer à d'autres langages de codage et de rester à jour avec les plateformes. Au cours des dix dernières années, j'ai appris à parler chinois, je me suis mis à la peinture et j'ai commencé à (ré)apprendre les mathématiques, alors je suis prêt à tout...
+
+Je suis écossaise mais je vis maintenant à Marseille et je parle couramment le français. Je cherche un emploi à Marseille, ou à distance.
+
+**Les cours que j'ai suivis**
+
+Python for Everybody - https://www.py4e.com
+
+Udemy Learn Python Programming Masterclass https://www.udemy.com/course/python-the-complete-python-developer-course/
+
+Coursera Data science Math Skills - https://www.coursera.org/learn/datasciencemathskills/home/welcome
+
+Coursera Cloud Computing Basics - https://www.coursera.org/learn/cloud-computing-basics/home/welcome
+
+**Etudes actuelles**
+
+Udemy Python for Data Science and Machine Learning Bootcamp - https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/learn/lecture/5733472?start=0#notes
+
+Udemy HTML and CSS Masterclass - https://www.udemy.com/course/html-and-css-masterclass/learn/lecture/11418918?start=0#overview
+
+Udemy Git and Github Masterclass - https://www.udemy.com/course/git-and-github-masterclass/learn/lecture/14479084?start=15#overview
+
+**Études futures**
+
+Django for Everybody - https://www.dj4e.com
+
+The Complete Regular Expressions (Regex) Course for beginners - https://www.udemy.com/course/regular-expressions-mastery/learn/lecture/15109624?start=0#overview
+
+The Complete SQL Bootcamp 2021 - https://www.udemy.com/course/the-complete-sql-bootcamp/learn/lecture/19242668?start=0#overview
+
+
 
 - 📫 www.gillianlaw.co.uk
 <!---
