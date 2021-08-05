@@ -23,10 +23,13 @@ Coursera Data science Math Skills - https://www.coursera.org/learn/datasciencema
 
 Coursera Cloud Computing Basics - https://www.coursera.org/learn/cloud-computing-basics/home/welcome
 
+Udemy Python for Data Science and Machine Learning Bootcamp - https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/learn/lecture/5733472?start=0#notes
+
 
 **I’m currently studying:**
 
-Udemy Python for Data Science and Machine Learning Bootcamp - https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/learn/lecture/5733472?start=0#notes
+
+Django for Everybody - https://www.dj4e.com
 
 Udemy HTML and CSS Masterclass - https://www.udemy.com/course/html-and-css-masterclass/learn/lecture/11418918?start=0#overview
 
@@ -34,8 +37,6 @@ Udemy Git and Github Masterclass - https://www.udemy.com/course/git-and-github-m
 
 
 **Lined up for future study:**
-
-Django for Everybody - https://www.dj4e.com
 
 The Complete Regular Expressions (Regex) Course for beginners - https://www.udemy.com/course/regular-expressions-mastery/learn/lecture/15109624?start=0#overview
 
@@ -68,7 +69,7 @@ Jusqu'à présent, je me sens plus attirée par l'analyse de données que par le
 
 J'ai toujours, toujours envie d'apprendre de nouvelles choses et je suis donc heureuse de passer à d'autres langages de codage et de rester à jour avec les plateformes. Au cours des dix dernières années, j'ai appris à parler chinois, je me suis mis à la peinture et j'ai commencé à (ré)apprendre les mathématiques, alors je suis prêt à tout...
 
-Je suis écossaise mais je vis maintenant à Marseille et je parle courrament le francais. Je cherche un emploi à Marseille, ou à distance.
+Je suis écossaise mais j'habite à Marseille et je parle courrament le francais. Je cherche un emploi à Marseille, ou à distance.
 
 **Les cours que j'ai suivis**
 
@@ -80,17 +81,17 @@ Coursera Data science Math Skills - https://www.coursera.org/learn/datasciencema
 
 Coursera Cloud Computing Basics - https://www.coursera.org/learn/cloud-computing-basics/home/welcome
 
+Udemy Python for Data Science and Machine Learning Bootcamp - https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/learn/lecture/5733472?start=0#notes
+
 **Etudes actuelles**
 
-Udemy Python for Data Science and Machine Learning Bootcamp - https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/learn/lecture/5733472?start=0#notes
+Django for Everybody - https://www.dj4e.com
 
 Udemy HTML and CSS Masterclass - https://www.udemy.com/course/html-and-css-masterclass/learn/lecture/11418918?start=0#overview
 
 Udemy Git and Github Masterclass - https://www.udemy.com/course/git-and-github-masterclass/learn/lecture/14479084?start=15#overview
 
 **Études futures**
-
-Django for Everybody - https://www.dj4e.com
 
 The Complete Regular Expressions (Regex) Course for beginners - https://www.udemy.com/course/regular-expressions-mastery/learn/lecture/15109624?start=0#overview
 
