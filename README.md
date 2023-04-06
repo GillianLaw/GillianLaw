@@ -1,6 +1,6 @@
 Hi, I’m @GillianLaw 
 
-I’m learning to code after a career as a technology journalist, and I’ve discovered I love it – so much so that I’m now looking to move into a coding job. 
+I’m learning to code after a career as a technology journalist, and I’ve discovered I love it – so much so that I’m now looking to move into a coding job. In September 2023 I will begin the Ecole IA Microsoft by Simplon and I am now looking for a work-study contract to complete the course. 
 
 I can bring a lot to the programming world: I’m a great listener and communicator, I can really get to understand what works for people and how to help them. I also love taking complex things and making them easy to understand, and that’s a real strength of coding, I feel. 
 
@@ -28,6 +28,7 @@ Coursera Cloud Computing Basics - https://www.coursera.org/learn/cloud-computing
 
 **I’m currently studying:**
 
+Ecole IA Microsoft by Simplon - due to start in September 2023
 
 Django for Everybody - https://www.dj4e.com
 
@@ -48,9 +49,6 @@ The Complete SQL Bootcamp 2021 - https://www.udemy.com/course/the-complete-sql-b
 To date I've worked using Atom, IntelliJ and Jupyter Notebooks. I mostly like Atom, for the simplicity, but I can see the benefits of all three. 
 
 
-**Advice**?
-
-If you have any advice on what else I should be looking at, or where to start looking for work, I would be really grateful. At the moment I plan to start seriously looking later this year, once I have some good projects here in github. 
 
 
 
@@ -59,7 +57,7 @@ If you have any advice on what else I should be looking at, or where to start lo
 
 Bonjour, je suis @GillianLaw
 
-J'apprends à coder après une carrière de journaliste spécialisée dans les technologies, et j'ai découvert que j'adore ça - à tel point que je cherche maintenant à occuper un poste de codeuse.
+J'apprends à coder après une carrière de journaliste spécialisée dans les technologies, et j'ai découvert que j'adore ça - à tel point que je cherche maintenant à occuper un poste de codeuse. En septembre 2023, je commencerai l'école IA Microsoft by Simplon et je suis maintenant à la recherche d'un contrat d'alternance pour compléter la formation. 
 
 Je peux apporter beaucoup au monde de la programmation : J'ai une grande capacité d'écoute et de communication, je peux vraiment comprendre comment aider les gens et leur fournir ce dont ils ont besoin. J'aime aussi prendre des choses complexes et les rendre faciles à comprendre.
 
@@ -102,9 +100,6 @@ The Complete SQL Bootcamp 2021 - https://www.udemy.com/course/the-complete-sql-b
 
 Jusqu'à présent, j'ai travaillé avec Atom, IntelliJ et Jupyter Notebooks. J'aime surtout Atom, pour sa simplicité, mais je vois les avantages des trois. 
 
-**Conseils** ?
-
-Si vous avez des conseils sur ce que je devrais faire, ou sur l'endroit où commencer à chercher du travail, je vous en serais vraiment reconnaissant. Pour l'instant, je prévois de commencer à chercher sérieusement plus tard cette année, une fois que j'aurai quelques bons projets ici dans github. 
 
 
 - 📫 www.gillianlaw.co.uk
