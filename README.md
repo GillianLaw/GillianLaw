@@ -46,7 +46,7 @@ The Complete SQL Bootcamp 2021 - https://www.udemy.com/course/the-complete-sql-b
 
 **Code editors**
 
-To date I've worked using Atom, IntelliJ and Jupyter Notebooks. I mostly like Atom, for the simplicity, but I can see the benefits of all three. 
+To date I've worked using Atom, IntelliJ and Jupyter Notebooks. 
 
 
 
@@ -98,7 +98,7 @@ The Complete SQL Bootcamp 2021 - https://www.udemy.com/course/the-complete-sql-b
 
 **Éditeurs de code**
 
-Jusqu'à présent, j'ai travaillé avec Atom, IntelliJ et Jupyter Notebooks. J'aime surtout Atom, pour sa simplicité, mais je vois les avantages des trois. 
+Jusqu'à présent, j'ai travaillé avec Atom, IntelliJ et Jupyter Notebooks. 
 
 
 
