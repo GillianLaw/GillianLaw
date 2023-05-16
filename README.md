@@ -1,6 +1,6 @@
 _(voir ci-dessous pour la version française)_
 
-**Hi, I’m @GillianLaw **
+Hi, I’m @GillianLaw
 
 I’m learning to code after a career as a technology journalist, and I’ve discovered I love it – so much so that I’m now looking to move into a coding job. In September 2023 I will begin the Ecole IA Microsoft by Simplon and I am now looking for a work-study contract to complete the course. 
 
