@@ -8,9 +8,7 @@ I can bring a lot to the programming world: I’m a great listener and communica
 
 I’m a 50-something woman who loves technology. There are more people like me than you might think, and I think I can bring a fresh perspective to the tech world. 
 
-So far I feel more drawn to data analysis than to front end work, but I’m trying to study widely and understand where my strengths are. I’m also building up my projects as I think that’s where I’ll really find – and be able to show – what I’m good at. 
-
-I'm always, always keen to learn new things so I'm happy to move into other coding languages and keep up to date with platforms. In the past ten years I've learned to speak Chinese, taken up painting, and begun (re)learning maths - so I'm up for anything...
+I'm always keen to learn new things so I'm happy to move into other coding languages and keep up to date with platforms. In the past ten years I've learned to speak Chinese, taken up painting, and begun (re)learning maths - so I'm up for anything...
 
 I'm Scottish, but I live in Marseille (and speak fluent French). I'm therefore looking for work based here in Marseille, or remotely. 
 
@@ -65,9 +63,7 @@ Je peux apporter beaucoup au monde de la programmation : J'ai une grande capacit
 
 Je suis une femme d'une cinquantaine d'années qui aime la technologie. Il y a plus de gens comme moi qu'on ne le pense, et je suis convaincue que je peux apporter un regard neuf sur le monde de la technologie. 
 
-Jusqu'à présent, je me sens plus attirée par l'analyse de données que par le travail frontal, mais j'essaie de faire des études approfondies et de comprendre où sont mes points forts. Je développe également mes projets, car je pense que c'est là que je trouverai vraiment - et que je pourrai montrer - ce que je sais faire. 
-
-J'ai toujours, toujours envie d'apprendre de nouvelles choses et je suis donc heureuse de passer à d'autres langages de codage et de rester à jour avec les plateformes. Au cours des dix dernières années, j'ai appris à parler chinois, je me suis mis à la peinture et j'ai commencé à (ré)apprendre les mathématiques, alors je suis prêt à tout...
+J'ai toujours envie d'apprendre de nouvelles choses et je suis donc heureuse de passer à d'autres langages de codage et de rester à jour avec les plateformes. Au cours des dix dernières années, j'ai appris à parler chinois, je me suis mis à la peinture et j'ai commencé à (ré)apprendre les mathématiques, alors je suis prêt à tout...
 
 Je suis écossaise mais j'habite à Marseille et je parle courrament le francais. Je cherche un emploi à Marseille, ou à distance.
 
