@@ -30,19 +30,6 @@ Coursera Cloud Computing Basics - https://www.coursera.org/learn/cloud-computing
 
 Ecole IA Microsoft by Simplon - due to start in September 2023
 
-Django for Everybody - https://www.dj4e.com
-
-Udemy HTML and CSS Masterclass - https://www.udemy.com/course/html-and-css-masterclass/learn/lecture/11418918?start=0#overview
-
-Udemy Git and Github Masterclass - https://www.udemy.com/course/git-and-github-masterclass/learn/lecture/14479084?start=15#overview
-
-
-**Lined up for future study:**
-
-The Complete Regular Expressions (Regex) Course for beginners - https://www.udemy.com/course/regular-expressions-mastery/learn/lecture/15109624?start=0#overview
-
-The Complete SQL Bootcamp 2021 - https://www.udemy.com/course/the-complete-sql-bootcamp/learn/lecture/19242668?start=0#overview
-
 
 **Code editors**
 
@@ -82,21 +69,9 @@ Coursera Cloud Computing Basics - https://www.coursera.org/learn/cloud-computing
 
 **Etudes actuelles**
 
-Django for Everybody - https://www.dj4e.com
+Ecole IA Microsoft by Simplon - septembre 2023
 
-Udemy HTML and CSS Masterclass - https://www.udemy.com/course/html-and-css-masterclass/learn/lecture/11418918?start=0#overview
 
-Udemy Git and Github Masterclass - https://www.udemy.com/course/git-and-github-masterclass/learn/lecture/14479084?start=15#overview
-
-**Études futures**
-
-The Complete Regular Expressions (Regex) Course for beginners - https://www.udemy.com/course/regular-expressions-mastery/learn/lecture/15109624?start=0#overview
-
-The Complete SQL Bootcamp 2021 - https://www.udemy.com/course/the-complete-sql-bootcamp/learn/lecture/19242668?start=0#overview
-
-**Éditeurs de code**
-
-Jusqu'à présent, j'ai travaillé avec Atom, IntelliJ et Jupyter Notebooks. 
 
 
 
