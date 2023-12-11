@@ -2,7 +2,7 @@ _(voir ci-dessous pour la version française)_
 
 Hi, I’m @GillianLaw
 
-I’m learning to code after a career as a technology journalist (focused on High Performance Computing), and I’ve discovered I love it – so much so that I’m now looking to move into a coding job. In October 2023 I will begin a data science bootcamp run by Le wagon, and then I'll be looking for work.  
+I’m learning to code after a career as a technology journalist (focused on High Performance Computing), and I’ve discovered I love it – so much so that I’m now looking to move into a coding job. In October 2023 I began a data science bootcamp run by Le Wagon. That will finish in mid January, and then I'll be looking for work.  
 
 I can bring a lot to the programming world: I’m a great listener and communicator, I can really get to understand what works for people and how to help them. I also love taking complex things and making them easy to understand, and that’s a real strength of coding, I feel. 
 
@@ -28,7 +28,7 @@ Coursera Cloud Computing Basics - https://www.coursera.org/learn/cloud-computing
 
 **I’m currently studying:**
 
-Data Science by Le Wagon - due to start in October 2023
+Data Science by Le Wagon - due to finish in January 2024
 
 
 **Code editors**
@@ -44,7 +44,7 @@ To date I've worked using Atom, IntelliJ and Jupyter Notebooks.
 
 Bonjour, je suis @GillianLaw
 
-J'apprends à coder après une carrière de journaliste spécialisée dans les technologies, et j'ai découvert que j'adore ça - à tel point que je cherche maintenant à occuper un poste de codeuse. En octobre 2023, je commencerai un 'bootcamp' en data science with Le Wagon. 
+J'apprends à coder après une carrière de journaliste spécialisée dans les technologies, et j'ai découvert que j'adore ça - à tel point que je cherche maintenant à occuper un poste de codeuse. En octobre 2023, j'ai commencé un 'bootcamp' en data science with Le Wagon. 
 
 Je peux apporter beaucoup au monde de la programmation : J'ai une grande capacité d'écoute et de communication, je peux vraiment comprendre comment aider les gens et leur fournir ce dont ils ont besoin. J'aime aussi prendre des choses complexes et les rendre faciles à comprendre.
 
@@ -69,7 +69,7 @@ Coursera Cloud Computing Basics - https://www.coursera.org/learn/cloud-computing
 
 **Etudes actuelles**
 
-Data Science - Le Wagon - octobre 2023
+Data Science - Le Wagon - octobre 2023 - janvier 2024
 
 
 
