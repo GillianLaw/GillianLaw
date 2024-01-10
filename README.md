@@ -43,7 +43,7 @@ J'apprends à coder après une carrière de journaliste spécialisée dans les t
 
 Je suis une femme d'une cinquantaine d'années qui aime la technologie, et je suis convaincue que je peux apporter un regard neuf sur le monde de la technologie. 
 
-J'ai toujours envie d'apprendre de nouvelles choses et je suis donc heureuse de passer à d'autres langages de codage et de rester à jour avec les plateformes. Au cours des dix dernières années, j'ai appris à parler chinois, je me suis mis à la peinture et j'ai commencé à (ré)apprendre les mathématiques, alors je suis prêt à tout...
+J'ai toujours envie d'apprendre de nouvelles choses et je suis donc heureuse de passer à d'autres langages de codage et de rester à jour avec les plateformes. Au cours des dix dernières années, j'ai appris à parler chinois, je me suis mis à la peinture et j'ai commencé à (ré)apprendre les mathématiques, alors je suis prête à tout...
 
 Je suis écossaise mais j'habite à Marseille et je parle courrament le francais. Je cherche un emploi à Marseille, ou à distance.
 
