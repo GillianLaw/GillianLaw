@@ -1,6 +1,6 @@
 _(voir ci-dessous pour la version française)_
 
-# Hi, I’m GillianLaw
+# Hi, I’m Gillian Law
 
 I began learning to code after a career as a technology journalist (focused on High Performance Computing), and discovered I love it – so much so that I’m now looking to move into a coding job. In January 2024 I completed a data science bootcamp run by Le Wagon, and now I am looking for interesting work.
 
@@ -37,7 +37,7 @@ I've also studied:
 
 **FRANCAIS**
 
-# Bonjour, je suis GillianLaw
+# Bonjour, je suis Gillian Law
 
 J'ai commencé à coder après une carrière de journaliste spécialisée dans les technologies, et j'ai découvert que j'adore ça - à tel point que je cherche maintenant à occuper un poste de codeuse. En janvier 2024, j'ai fini un 'bootcamp' en data science with Le Wagon et je cherche du travail.
 
@@ -45,7 +45,7 @@ Je suis une femme d'une cinquantaine d'années qui aime la technologie, et je su
 
 J'ai toujours envie d'apprendre de nouvelles choses et je suis donc heureuse de passer à d'autres langages de codage et de rester à jour avec les plateformes. Au cours des dix dernières années, j'ai appris à parler chinois, je me suis mis à la peinture et j'ai commencé à (ré)apprendre les mathématiques, alors je suis prête à tout...
 
-Je suis écossaise mais j'habite à Marseille et je parle courrament le francais. Je cherche un emploi à Marseille, ou à distance.
+Je suis écossaise mais j'habite à Marseille et je parle couramment le francais. Je cherche un emploi à Marseille, ou à distance.
 
 ## Les cours que j'ai suivis
 
