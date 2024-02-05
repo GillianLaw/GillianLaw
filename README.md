@@ -2,7 +2,7 @@ _(voir ci-dessous pour la version française)_
 
 # Hi, I’m Gillian Law
 
-I began learning to code after a career as a technology journalist (focused on High Performance Computing), and discovered I love it – so much so that I’m now looking to move into a coding job. In January 2024 I completed a data science bootcamp run by Le Wagon, and now I am looking for interesting work.
+I completed a data science bootcamp run by Le Wagon In January 2024 and now I am looking for interesting work. I began learning to code after a career as a technology journalist (focused on High Performance Computing), and discovered I love it – so much so that I’m now looking to move into a coding job. 
 
 I’m a 50-something woman who loves technology, and I think I can bring a fresh perspective to the tech world. 
 
