@@ -2,7 +2,7 @@ _(voir ci-dessous pour la version française)_
 
 # Hi, I’m Gillian Law
 
-I completed a data science bootcamp run by Le Wagon In January 2024 and now I am looking for interesting work. I began learning to code after a career as a technology journalist (focused on High Performance Computing), and discovered I love it – so much so that I’m now looking to move into a coding job. 
+I completed a data science bootcamp run by Le Wagon In January 2024 and I'm now looking for interesting work. I began learning to code after a career as a technology journalist (focused on High Performance Computing), and discovered I love it – so much so that I’m now looking to move into a coding job. 
 
 I’m a 50-something woman who loves technology, and I think I can bring a fresh perspective to the tech world. 
 
@@ -16,6 +16,8 @@ I'm Scottish, but I live in Marseille (and speak fluent French). I'm therefore l
 ### Data Science and AI by Le Wagon - https://www.lewagon.com
 
 I've also studied:
+
+- Google Data Analytics Specialisation - https://www.coursera.org/account/accomplishments/specialization/certificate/N2CYFU8FPN8B
 
 - Python for Everybody - https://www.py4e.com This course covered: Introduction to coding, lists, dictionaries, tuples, regex, networks, functions, object oriented programming, web services, Beautiful Soup, SQL and databases, reading from and writing to files, data visualisation.
 
@@ -52,6 +54,8 @@ Je suis écossaise mais j'habite à Marseille et je parle couramment le francais
 ### Data Science and AI by Le Wagon - https://www.lewagon.com
 
 Autres cours :
+
+- Google Data Analytics Specialisation - https://www.coursera.org/account/accomplishments/specialization/certificate/N2CYFU8FPN8B
 
 - Python for Everybody - https://www.py4e.com Ce cours a porté sur : Introduction au coding, listes, dictionnaires, tuples, regex, réseaux, fonctions, OOP programmation orientée objet, services web, Beautiful Soup, SQL et bases de données, lecture et écriture dans des fichiers, visualisation de données.
 
